@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Ваня Кириллов](https://up.htmlacademy.ru/react-individual/3/user/2556705).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Цыганов](https://htmlacademy.ru/profile/id888389).
 
 ---
 
